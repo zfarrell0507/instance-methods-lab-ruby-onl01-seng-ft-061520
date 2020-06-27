@@ -9,5 +9,5 @@ class Person
   
 end
 zach = Person.new 
-zach.bark
-zach.sit 
+zach.talk
+zach.walk 
